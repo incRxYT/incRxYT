@@ -41,13 +41,3 @@ pekoBot is not available on the Geode index due to use of code from xdBot withou
     <img src="https://img.youtube.com/vi/yPC0BQgclJg/maxresdefault.jpg" width="70%">
   </a>
 </p>
-
----
-
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incRxYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incRxYT&theme=tokyonight&hide_border=true&background=00000000">
-</p>
