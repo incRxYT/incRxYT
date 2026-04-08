@@ -20,11 +20,11 @@
 
 Developer focused on Geometry Dash modding and tooling.
 
-- Currently working on **[CUTEui](https://github.com/incRxYT/CUTEui)** — a Geode mod that expands customization  
+- Currently working on **[CUTEui](https://github.com/incRxYT/CUTEui)** — a Geode mod that expands customization and makes the UI friendly  
 - Developing **[pekoBot](https://github.com/incRxYT/PekoBot)** — a macro bot for Geometry Dash  
 - Learning C++ and the Geode modding framework  
-- Open to collaboration on Geometry Dash mods and open-source tooling  
-- Maintainer of a fork of xdBot known as pekoBot (updated for GD 2.2081)
+- Open to collaboration on open-source tooling  
+- Maintainer of pekoBot (updated for GD 2.2081)
 
 ---
 
