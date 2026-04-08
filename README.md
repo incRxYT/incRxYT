@@ -34,7 +34,7 @@ pekoBot is not available on the Geode index due to use of code from xdBot withou
 
 ---
 
-## Playing TS level
+## Playing This level
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=yPC0BQgclJg">
